@@ -37,6 +37,9 @@
     <url>git@github.com:wavefronthq/java.git</url>
     <tag>wavefront-3.0</tag>
   </scm>
+  
+  
+  <html>
 
   <distributionManagement>
     <snapshotRepository>
